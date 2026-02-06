@@ -71,7 +71,7 @@
             placeRingItems(daysRing);
         });
 
-        /* -----------------------------------------
+        /* -------------
            Analog hands
         ------------------------------------------*/
         const hourHand = document.getElementById("hourHand");
