@@ -73,7 +73,7 @@
 
         /* -------------
            Analog hands
-        ------------------------------------------*/
+        ----------------*/
         const hourHand = document.getElementById("hourHand");
         const minuteHand = document.getElementById("minuteHand");
         const secondHand = document.getElementById("secondHand");
