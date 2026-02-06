@@ -52,7 +52,7 @@
 
         /* ----------
            Clock setup
-        ------------------------------------------*/
+        ------------*/
         const months = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
         const days = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
         const dates = Array.from({ length: 31 }, (_, i) => String(i + 1).padStart(2, "0"));
