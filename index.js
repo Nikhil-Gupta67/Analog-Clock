@@ -82,7 +82,7 @@
             h.style.transition = "transform 0.5s cubic-bezier(.22,.9,.35,1)";
         });
 
-        /* -----------------------------------------
+        /* ----------
            Highlight nearest item
         ----------*/
         function highlightNearest(container) {
