@@ -112,7 +112,7 @@
 
         /* ----------
            Update clock
-        ------------------------------------------*/
+        ------------*/
         function updateClock() {
             const now = new Date();
             const s = now.getSeconds();
