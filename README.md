@@ -8,7 +8,7 @@ A minimal, modern-styled digital clock built with HTML, CSS and JavaScript.
 - Real-time digital clock with smooth updates
 - Single-file front-end (no build step)
 
-## Files
+## Files--
 
 - [index.html](index.html) — markup and demo page
 - [index.css](index.css) — styles and layout
