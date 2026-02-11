@@ -33,6 +33,6 @@ python -m http.server 8000
 
 Feel free to open issues or submit PRs for improvements.
 
-## License
+## License--
 
 This project is provided as-is. Use as you like.
