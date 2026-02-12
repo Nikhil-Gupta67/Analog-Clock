@@ -24,7 +24,7 @@ python -m http.server 8000
 # then open http://localhost:8000
 ```
 
-## Customization--
+## Customization-
 
 - Edit the CSS in [index.css](index.css) to change colors, fonts, or layout.
 - Edit the JS in [index.js](index.js) to modify time format or add features.
