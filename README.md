@@ -14,7 +14,7 @@ A minimal, modern-styled digital clock built with HTML, CSS and JavaScript.
 - [index.css](index.css) — styles and layout
 - [index.js](index.js) — clock logic
 
-## Usage--
+## Usage-
 
 1. Open [index.html](index.html) in your browser to view the clock.
 2. (Optional) Serve locally for consistent behavior:
