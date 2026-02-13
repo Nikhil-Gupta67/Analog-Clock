@@ -29,7 +29,7 @@ python -m http.server 8000
 - Edit the CSS in [index.css](index.css) to change colors, fonts, or layout.
 - Edit the JS in [index.js](index.js) to modify time format or add features.
 
-## Contributing--
+## Contributing-
 
 Feel free to open issues or submit PRs for improvements.
 
