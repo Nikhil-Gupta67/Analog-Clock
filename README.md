@@ -1,4 +1,4 @@
-# Modern Clock
+# Modern Clock-
 
 A minimal, modern-styled digital clock built with HTML, CSS, and JavaScript.
 
