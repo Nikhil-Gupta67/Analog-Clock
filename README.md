@@ -4,7 +4,7 @@ A minimal, modern-styled digital clock built with HTML, CSS, and JavaScript.
 
 ## Features-
 
-- Clean, responsive design
+- Clean, responsive design-
 - Real-time digital clock with smooth updates
 - No build step — plain static files
 
