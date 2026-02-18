@@ -19,11 +19,9 @@
         function placeRingItems(container) {
             const items = [...container.querySelectorAll(".item")];
             if (!items.length) return;
-
             const rect = container.getBoundingClientRect();
             const radius = Math.min(rect.width, rect.height) / 2 - 22;
             const step = 360 / items.length;
-
             items.forEach((it, i) => {
                 const angle = i * step;
                 it.style.transform = `
