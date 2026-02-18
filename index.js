@@ -11,10 +11,8 @@
                 el.textContent = labels[i];
                 container.appendChild(el);
             }
-
             placeRingItems(container);
         }
-
         /* -------------
            Position items around circle
         ---------------*/
