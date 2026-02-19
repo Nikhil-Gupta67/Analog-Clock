@@ -13,7 +13,7 @@
             }
             placeRingItems(container);
         }
-        /* -------------
+        /* ------
            Position items around circle
         ---------------*/
         function placeRingItems(container) {
