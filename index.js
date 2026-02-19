@@ -33,9 +33,9 @@
             });
         }
 
-        /* -------------
+        /* -----
            Rotate ring
-        -------------*/
+        -------*/
         function rotateRingToIndex(container, index) {
             const items = [...container.querySelectorAll(".item")];
             const step = 360 / items.length;
