@@ -131,7 +131,6 @@
             highlightNearest(monthsRing);
             highlightNearest(daysRing);
         }
-
         window.onload = () => {
             document.getElementById("wrap").classList.add("ready");
             updateClock();
