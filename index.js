@@ -105,7 +105,6 @@
                 it.classList.toggle("current", idx === best)
             );
         }
-
         /* ----------
            Update clock
         ------------*/
